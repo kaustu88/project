@@ -7,7 +7,7 @@ def home():
     """Renders the home page."""
     # TODO: Create a query parameter so as to add our name to the URL like 
     # https://first-project.azurewebsites.net/name=Grace
-    name = "</>"
+    name = "</kaustubha Shravan>"
 
     return render_template(
         'index.html',
